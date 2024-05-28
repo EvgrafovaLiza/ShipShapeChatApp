@@ -55,17 +55,11 @@
                         align-items: center;
                         gap: 20px;
 
-                        img {
-                            width: 40px;
-                            height: 40px;
-                            border-radius: 5px;
-                            object-fit: cover;
-                        }
-
-                        span {
+                        a {
                             font-size: 14px;
                             color: lightgray;
                             font-weight: 300;
+                            text-decoration: none;
                         }
                     }
 

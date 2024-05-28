@@ -4,7 +4,7 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "",
+  apiKey: "AIzaSyCk62N766ezBiMM4iFTHEdub2pZMQ19f-U",
   authDomain: "shipshapechatapp.firebaseapp.com",
   projectId: "shipshapechatapp",
   storageBucket: "shipshapechatapp.appspot.com",
